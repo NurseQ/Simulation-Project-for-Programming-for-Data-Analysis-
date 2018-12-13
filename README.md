@@ -1,4 +1,4 @@
-# Simulation-Project-for-Programming-for-Data-Analysis-
+# Simulation Project for Programming for Data Analysis 
 This is a project investigating simulation and modeling for the course Programming for Data Analysis. Submitted by James Quintin to Dr. Ian Mcloughlin. 
 
 This project uses a [Jupyter Notebook](https://jupyter.org/) to present live code, visualizations and explanations of the investigation. The code is written in the programming language [Python](https://www.python.org/) and uses the [Anaconda](https://www.anaconda.com/download/) distribution package that contains all necessary software to run this notebook.
@@ -8,4 +8,3 @@ This project investigates a real-world phenomenon and aims to model or simulate 
 
 
 
-![Line plot](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/English_Wikipedia%27s_traffic_by_browser_family.png/640px-English_Wikipedia%27s_traffic_by_browser_family.png)
